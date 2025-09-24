@@ -53,7 +53,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-Suporte_24/7-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CppWHhstw7)
-[![Email](https://img.shields.io/badge/Email-administrador@syncresourcesmta.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:administrador@syncresourcesmta.com)
+[![Email](https://img.shields.io/badge/Email-contato@syncresourcesmta.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@syncresourcesmta.com)
 [![Website](https://img.shields.io/badge/Website-Acesse_Agora-9d4edd?style=for-the-badge&logo=web&logoColor=white)](https://syncresourcesmta.com)
 
 </div>
