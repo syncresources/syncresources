@@ -31,14 +31,13 @@
 **Características:**
 - ✅ Verificação de integridade de arquivos
 - ✅ Validação de licença em tempo real
-- ✅ Sistema de heartbeat para monitoramento
 - ✅ Logs detalhados de segurança
 - ✅ Proteção anti-modificação
 
 ## 🌐 **Plataforma Web**
 
 - 🎛️ **Painel de Controle** - Gerenciamento completo de licenças
-- 📊 **Dashboard** - Estatísticas e monitoramento em tempo real
+- 📊 **Dashboard** - Estatísticas e monitoramento
 - 🛒 **Loja Integrada** - Compra e download de recursos
 - 🔐 **Sistema de Usuários** - Autenticação segura
 - 💳 **Pagamentos** - Integração com PayPal e MercadoPago
@@ -49,17 +48,16 @@
 |---------|-----------|--------|
 | 🛡️ Sistema de Proteção | Anti-bypass avançado | ✅ Ativo |
 | 🌐 Plataforma Web | Interface completa | ✅ Ativo |
-| 📊 Monitoramento | Tempo real | ✅ Ativo |
-| 💳 Pagamentos | PayPal + MercadoPago | ✅ Ativo |
-| 🔧 API REST | Integrações externas | ✅ Ativo |
+| 📊 Monitoramento  | ✅ Ativo |
+| 💳 Pagamentos | PayPal + MercadoPago + PIX| ✅ Ativo |
 
 ## 🤝 **Contato & Suporte**
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Suporte_24/7-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/syncresources)
-[![Email](https://img.shields.io/badge/Email-contato@syncresources.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@syncresources.com)
-[![Website](https://img.shields.io/badge/Website-Acesse_Agora-9d4edd?style=for-the-badge&logo=web&logoColor=white)](https://web.cariocaroleplay.com)
+[![Discord](https://img.shields.io/badge/Discord-Suporte_24/7-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CppWHhstw7)
+[![Email](https://img.shields.io/badge/Email-administrador@syncresourcesmta.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:administrador@syncresourcesmta.com)
+[![Website](https://img.shields.io/badge/Website-Acesse_Agora-9d4edd?style=for-the-badge&logo=web&logoColor=white)](https://syncresourcesmta.com)
 
 </div>
 
@@ -67,10 +65,8 @@
 
 <div align="center">
 
-### 💜 **Desenvolvido com paixão pela comunidade MTA**
+### 💜 **Desenvolvido com paixão pela Sync Resources**
 
-*Transformando ideias em soluções reais desde 2024*
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=syncresources.syncresources&left_color=9d4edd&right_color=purple)
+*Seu servidor, nossa missão. Do código à experiência. Sync Resources · 2025*
 
 </div>
