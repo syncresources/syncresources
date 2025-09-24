@@ -1,9 +1,5 @@
 # 🛡️ Sync Resources
 
-<div align="center">
-
-![Sync Resources Logo](https://cdn.discordapp.com/attachments/1419529596843589755/1420431996106309775/sync-logo_1.png?ex=68d55fe2&is=68d40e62&hm=905bb53cd58521b32dedea149372e7feb81b84152a0517e69f9a202dd7c261f1&))
-
 ### 🚀 **Premium MTA Scripts & Protection Systems**
 *Desenvolvendo soluções avançadas para servidores Multi Theft Auto*
 
