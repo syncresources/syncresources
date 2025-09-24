@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Premium MTA Scripts & Advanced Protection Systems**
+**Seu servidor, nossa missão.**
 
 [![Website](https://img.shields.io/badge/Website-9d4edd?style=flat&logo=web&logoColor=white)](https://web.cariocaroleplay.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/syncresources)
@@ -11,35 +11,28 @@
 
 ---
 
-**"Proteção que funciona, scripts que vendem"**
+*Do código à experiência.*
 
-Somos especialistas em criar recursos premium para Multi Theft Auto com sistema de licenciamento robusto. Nossa plataforma combina proteção anti-bypass de arquivos, validação em tempo real via API e monitoramento 24/7 dos servidores.
+Criamos o que os servidores MTA precisam: proteção inteligente e recursos que realmente fazem a diferença. Nossa abordagem é simples - tecnologia avançada com configuração descomplicada.
 
-**Stack Principal:** Lua • Node.js • Express • MySQL • PayPal API
+**O que fazemos:**
+- Scripts premium com proteção multicamadas
+- Plataforma web intuitiva para gerenciamento
+- Monitoramento automático e em tempo real
+- Licenciamento que simplesmente funciona
 
-**O que oferecemos:**
-- Scripts premium otimizados e documentados
-- Sistema de proteção multicamadas (arquivos + API + heartbeat)
-- Plataforma web com painel administrativo completo
-- Licenciamento automatizado com Discord webhooks
-- Monitoramento de servidores em tempo real
-- Integração com sistemas de pagamento (PayPal/MercadoPago)
-- Suporte técnico especializado
-
-**Nossos diferenciais:**
-- Detecção automática de modificações em arquivos
-- Validação contínua de licenças no servidor
-- Dashboard com estatísticas detalhadas
-- Sistema de heartbeat para uptime monitoring
-- Logs de segurança e violações
-- Código compilado para máxima proteção
+**Como pensamos:**
+- Segurança sem paranoia
+- Tecnologia que serve, não complica
+- Suporte quando você precisa
+- Evolução constante baseada em feedback real
 
 ---
 
 <div align="center">
 
-*"Simplicidade na configuração, robustez na proteção"*
+*Sync Resources · 2025*
 
-**Mais de 200 clientes confiam na nossa proteção**
+**"Onde a proteção encontra a praticidade"**
 
 </div>
