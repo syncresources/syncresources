@@ -1,5 +1,7 @@
 # 🛡️ Sync Resources
 
+<div align="center">
+
 ### 🚀 **Premium MTA Scripts & Protection Systems**
 *Desenvolvendo soluções avançadas para servidores Multi Theft Auto*
 
