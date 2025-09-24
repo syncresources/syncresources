@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Sync Resources Logo](https://via.placeholder.com/400x150/9d4edd/ffffff?text=SYNC+RESOURCES)
+![Sync Resources Logo]([https://via.placeholder.com/400x150/9d4edd/ffffff?text=SYNC+RESOURCES](https://cdn.discordapp.com/attachments/1419529596843589755/1420431996106309775/sync-logo_1.png?ex=68d55fe2&is=68d40e62&hm=905bb53cd58521b32dedea149372e7feb81b84152a0517e69f9a202dd7c261f1&))
 
 ### 🚀 **Premium MTA Scripts & Protection Systems**
 *Desenvolvendo soluções avançadas para servidores Multi Theft Auto*
@@ -14,14 +14,6 @@
 </div>
 
 ---
-
-## 🌟 **O que Fazemos**
-
-- 💎 **Scripts Premium** - Recursos avançados e otimizados para MTA
-- 🛡️ **Sistema de Proteção** - Anti-bypass com validação em tempo real
-- 🌐 **Plataforma Web** - Gerenciamento completo de licenças
-- 📊 **Monitoramento** - Painel administrativo com dados em tempo real
-- 🔒 **Segurança Avançada** - Múltiplas camadas de proteção
 
 ## 🚀 **Tecnologias**
 
@@ -35,30 +27,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
-
-## 📊 **Estatísticas**
-
-<div align="center">
-
-![Servidores Ativos](https://img.shields.io/badge/Servidores_Ativos-50+-brightgreen?style=for-the-badge)
-![Scripts Premium](https://img.shields.io/badge/Scripts_Premium-25+-blue?style=for-the-badge)
-![Clientes Satisfeitos](https://img.shields.io/badge/Clientes_Satisfeitos-200+-orange?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge)
-
-</div>
-
-## 🛡️ **Sistema de Proteção**
-
-```lua
--- Exemplo de uso no MTA
-if sistemaValido() then
-    -- Código protegido aqui
-    executarFuncionalidade()
-else
-    -- Acesso negado
-    outputChatBox("Sistema não autorizado!", player, 255, 0, 0)
-end
-```
 
 **Características:**
 - ✅ Verificação de integridade de arquivos
