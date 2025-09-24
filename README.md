@@ -6,7 +6,7 @@
 *Desenvolvendo soluções avançadas para servidores Multi Theft Auto*
 
 [![Website](https://img.shields.io/badge/Website-9d4edd?style=for-the-badge&logo=web&logoColor=white)](https://web.cariocaroleplay.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/syncresources)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CppWHhstw7)
 [![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)]()
 
 </div>
