@@ -2,50 +2,96 @@
 
 <div align="center">
 
-**Premium MTA Scripts & Protection Systems**
+![Sync Resources Logo](https://via.placeholder.com/400x150/9d4edd/ffffff?text=SYNC+RESOURCES)
+
+### 🚀 **Premium MTA Scripts & Protection Systems**
+*Desenvolvendo soluções avançadas para servidores Multi Theft Auto*
 
 [![Website](https://img.shields.io/badge/Website-9d4edd?style=for-the-badge&logo=web&logoColor=white)](https://web.cariocaroleplay.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/syncresources)
-![Status](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-2025-purple?style=for-the-badge)
+[![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)]()
 
 </div>
 
 ---
 
-🚀 Desenvolvemos scripts premium para Multi Theft Auto com sistema de proteção avançado e plataforma web integrada.
+## 🌟 **O que Fazemos**
 
-**💻 Stack:**
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+- 💎 **Scripts Premium** - Recursos avançados e otimizados para MTA
+- 🛡️ **Sistema de Proteção** - Anti-bypass com validação em tempo real
+- 🌐 **Plataforma Web** - Gerenciamento completo de licenças
+- 📊 **Monitoramento** - Painel administrativo com dados em tempo real
+- 🔒 **Segurança Avançada** - Múltiplas camadas de proteção
 
-**🎯 O que oferecemos:**
-- 🔒 Scripts premium com proteção anti-bypass
-- 🌐 Plataforma web para gerenciamento de licenças
-- 📊 Monitoramento de servidores em tempo real
-- ⚡ Sistema de licenciamento automatizado
-- 🎛️ Painel administrativo completo
-- 💳 Integração com PayPal e MercadoPago
-- 🤖 Discord webhooks para notificações
-- 🔌 API REST para integrações
-- 💓 Sistema de heartbeat para uptime
-- 📝 Logs detalhados de segurança
-
-**📦 Produtos:**
-- 🏛️ Painéis administrativos
-- 💰 Sistemas de economia
-- 🎭 Scripts de roleplay
-- 🛡️ Ferramentas de moderação
-- 🚗 Sistemas de garagem
-- ⚔️ Proteção anti-cheat
+## 🚀 **Tecnologias**
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/badge/Repositórios-15+-blue?style=flat-square)
-![Clientes](https://img.shields.io/badge/Clientes-200+-green?style=flat-square)
-![Servidores](https://img.shields.io/badge/Servidores_Ativos-50+-orange?style=flat-square)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+## 📊 **Estatísticas**
+
+<div align="center">
+
+![Servidores Ativos](https://img.shields.io/badge/Servidores_Ativos-50+-brightgreen?style=for-the-badge)
+![Scripts Premium](https://img.shields.io/badge/Scripts_Premium-25+-blue?style=for-the-badge)
+![Clientes Satisfeitos](https://img.shields.io/badge/Clientes_Satisfeitos-200+-orange?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge)
+
+</div>
+
+## 🛡️ **Sistema de Proteção**
+
+```lua
+-- Exemplo de uso no MTA
+if sistemaValido() then
+    -- Código protegido aqui
+    executarFuncionalidade()
+else
+    -- Acesso negado
+    outputChatBox("Sistema não autorizado!", player, 255, 0, 0)
+end
+```
+
+**Características:**
+- ✅ Verificação de integridade de arquivos
+- ✅ Validação de licença em tempo real
+- ✅ Sistema de heartbeat para monitoramento
+- ✅ Logs detalhados de segurança
+- ✅ Proteção anti-modificação
+
+## 🌐 **Plataforma Web**
+
+- 🎛️ **Painel de Controle** - Gerenciamento completo de licenças
+- 📊 **Dashboard** - Estatísticas e monitoramento em tempo real
+- 🛒 **Loja Integrada** - Compra e download de recursos
+- 🔐 **Sistema de Usuários** - Autenticação segura
+- 💳 **Pagamentos** - Integração com PayPal e MercadoPago
+
+## 📈 **Funcionalidades Principais**
+
+| Recurso | Descrição | Status |
+|---------|-----------|--------|
+| 🛡️ Sistema de Proteção | Anti-bypass avançado | ✅ Ativo |
+| 🌐 Plataforma Web | Interface completa | ✅ Ativo |
+| 📊 Monitoramento | Tempo real | ✅ Ativo |
+| 💳 Pagamentos | PayPal + MercadoPago | ✅ Ativo |
+| 🔧 API REST | Integrações externas | ✅ Ativo |
+
+## 🤝 **Contato & Suporte**
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-Suporte_24/7-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/syncresources)
+[![Email](https://img.shields.io/badge/Email-contato@syncresources.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@syncresources.com)
+[![Website](https://img.shields.io/badge/Website-Acesse_Agora-9d4edd?style=for-the-badge&logo=web&logoColor=white)](https://web.cariocaroleplay.com)
 
 </div>
 
@@ -53,10 +99,10 @@
 
 <div align="center">
 
-✨ *"Seu servidor, nossa missão"* ✨
+### 💜 **Desenvolvido com paixão pela comunidade MTA**
 
-**🎨 Do código à experiência • 🛡️ Sync Resources • 🚀 2025**
+*Transformando ideias em soluções reais desde 2024*
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=100&section=footer)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=syncresources.syncresources&left_color=9d4edd&right_color=purple)
 
 </div>
