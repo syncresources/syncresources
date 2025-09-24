@@ -46,7 +46,6 @@
 |---------|-----------|--------|
 | 🛡️ Sistema de Proteção | Anti-bypass avançado | ✅ Ativo |
 | 🌐 Plataforma Web | Interface completa | ✅ Ativo |
-| 📊 Monitoramento  | ✅ Ativo |
 | 💳 Pagamentos | PayPal + MercadoPago + PIX| ✅ Ativo |
 
 ## 🤝 **Contato & Suporte**
